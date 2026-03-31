@@ -1,4 +1,6 @@
 {
+    "preferred_line_length": 130,
+    "soft_wrap": "preferred_line_length",
     "git_panel": {
         "dock": "right",
         "tree_view": false,
@@ -6,7 +8,7 @@
     "outline_panel": {
         "indent_size": 20.0,
     },
-    "disable_ai": false,
+    "disable_ai": true,
     "telemetry": {
         "diagnostics": true,
         "metrics": false,
@@ -35,6 +37,7 @@
     },
     "formatter": "auto",
     "code_actions_on_format": {
+        "source.removeUnusedImports": true,
         "source.organizeImports": true,
     },
     "format_on_save": "on",
@@ -54,11 +57,7 @@
             "language_servers": ["typescript-language-server", "!vtsls"],
         },
         "TSX": {
-            "language_servers": [
-                "typescript-language-server",
-                "tailwindcss-language-server",
-                "!vtsls",
-            ],
+            "language_servers": ["typescript-language-server", "tailwindcss-language-server", "!vtsls"],
         },
         "JavaScript": {
             "language_servers": ["typescript-language-server", "!vtsls"],
