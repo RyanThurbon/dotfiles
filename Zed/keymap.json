@@ -6,65 +6,65 @@
 // To see the default key bindings run `zed: open default keymap`
 // from the command palette.
 [
-  {
-    "context": "Workspace",
-    "bindings": {
-      // "shift shift": "file_finder::Toggle"
+    {
+        "context": "Workspace",
+        "bindings": {
+            // "shift shift": "file_finder::Toggle"
+        },
     },
-  },
-  {
-    "context": "Editor && vim_mode == insert",
-    "bindings": {
-      // "j k": "vim::NormalBefore"
+    {
+        "context": "Editor && vim_mode == insert",
+        "bindings": {
+            // "j k": "vim::NormalBefore"
+        },
     },
-  },
-  {
-    "bindings": {
-      "ctrl-d": "editor::DuplicateSelection"
-    }
-  },
-  {
-    "context": "Editor",
-    "bindings": {
-      "ctrl-shift-d": [
-        "editor::SelectNext",
-        {
-          "replace_newest": false
-        }
-      ]
-    }
-  },
-  {
-    "context": "Editor",
-    "bindings": {
-      "alt-d": "editor::DeleteLine"
-    }
-  },
-  {
-    "bindings": {
-      "ctrl-g": "git_panel::Toggle"
-    }
-  },
-  {
-    "bindings": {
-      "ctrl-b": "project_panel::Toggle"
-    }
-  },
-  {
-    "context": "Workspace",
-    "bindings": {
-      "ctrl-x": "zed::Extensions"
-    }
-  },
-  {
-    "context": "Workspace",
-    "unbind": {
-      "ctrl-shift-x": "zed::Extensions"
-    }
-  },
-  {
-    "bindings": {
-      "ctrl-alt-c": "editor::ToggleCase"
-    }
-  }
+    {
+        "bindings": {
+            "ctrl-d": "editor::DuplicateSelection",
+        },
+    },
+    {
+        "context": "Editor",
+        "bindings": {
+            "ctrl-shift-d": [
+                "editor::SelectNext",
+                {
+                    "replace_newest": false,
+                },
+            ],
+        },
+    },
+    {
+        "context": "Editor",
+        "bindings": {
+            "alt-d": "editor::DeleteLine",
+        },
+    },
+    {
+        "bindings": {
+            "ctrl-g": "git_panel::Toggle",
+        },
+    },
+    {
+        "bindings": {
+            "ctrl-b": "project_panel::Toggle",
+        },
+    },
+    {
+        "context": "Workspace",
+        "bindings": {
+            "ctrl-x": "zed::Extensions",
+        },
+    },
+    {
+        "context": "Workspace",
+        "unbind": {
+            "ctrl-shift-x": "zed::Extensions",
+        },
+    },
+    {
+        "bindings": {
+            "ctrl-alt-c": "editor::ToggleCase",
+        },
+    },
 ]
