@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config "C:\Users\ryant\source\repos\other\oh-my-posh-themes\spaceship.json" | Invoke-Expression
