@@ -1,0 +1,44 @@
+// Place your key bindings in this file to override the defaults
+[
+	{
+		"key": "ctrl+shift+backspace",
+		"command": "deleteAllLeft",
+	},
+	{
+		"key": "ctrl+d",
+		"command": "editor.action.copyLinesDownAction",
+		"when": "editorTextFocus",
+	},
+	{
+		"key": "ctrl+shift+d",
+		"command": "editor.action.addSelectionToNextFindMatch",
+		"when": "editorFocus",
+	},
+	{
+		"key": "alt+d",
+		"command": "editor.action.deleteLines",
+		"when": "editorTextFocus",
+	},
+	{
+		"key": "ctrl+g",
+		"command": "workbench.view.scm",
+		"when": "workbenchState != empty",
+	},
+	{
+		"key": "ctrl+b",
+		"command": "workbench.view.explorer",
+	},
+	{
+		"key": "ctrl+x",
+		"command": "workbench.extensions.action.showExtensions",
+	},
+	{
+		"key": "ctrl+shift+x",
+		"command": "-workbench.extensions.action.showExtensions",
+	},
+	{
+		"key": "ctrl+alt+c",
+		"command": "editor.action.transformToUppercase",
+		"when": "editorTextFocus",
+	},
+]
