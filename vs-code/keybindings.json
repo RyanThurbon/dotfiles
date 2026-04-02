@@ -25,14 +25,6 @@
 		"when": "workbenchState != empty",
 	},
 	{
-		"key": "ctrl+b",
-		"command": "workbench.view.explorer",
-	},
-	{
-		"key": "ctrl+x",
-		"command": "workbench.extensions.action.showExtensions",
-	},
-	{
 		"key": "ctrl+shift+x",
 		"command": "-workbench.extensions.action.showExtensions",
 	},
