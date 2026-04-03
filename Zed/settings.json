@@ -1,5 +1,5 @@
 {
-    "preferred_line_length": 130,
+    "preferred_line_length": 120,
     "soft_wrap": "preferred_line_length",
     "git_panel": {
         "dock": "right",
@@ -24,13 +24,13 @@
     },
     "icon_theme": "JetBrains New UI Icons (Dark)",
     "base_keymap": "VSCode",
-    "ui_font_size": 17,
-    "buffer_font_family": "JetBrains Mono",
-    "buffer_font_size": 18,
+    "ui_font_size": 19,
+    "buffer_font_family": "MonoLisa Pro-2",
+    "buffer_font_size": 19,
     "theme": {
         "mode": "dark",
         "light": "One Light",
-        "dark": "VSCode Dark Modern",
+        "dark": "One Dark",
     },
     "indent_guides": {
         "enabled": true,
