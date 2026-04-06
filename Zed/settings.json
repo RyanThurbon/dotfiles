@@ -22,20 +22,20 @@
     "session": {
         "trust_all_worktrees": true,
     },
-    "icon_theme": {
-        "mode": "light",
-        "light": "Colored Zed Icons Theme Light",
-        "dark": "Colored Zed Icons Theme Dark",
-    },
     "base_keymap": "VSCode",
     "ui_font_size": 17,
     "ui_font_family": "JetBrains Mono",
     "buffer_font_family": "JetBrains Mono",
-    "buffer_font_size": 17,
+    "buffer_font_size": 18,
+    "icon_theme": {
+        "mode": "dark",
+        "light": "Colored Zed Icons Theme Light",
+        "dark": "Colored Zed Icons Theme Dark",
+    },
     "theme": {
-        "mode": "light",
+        "mode": "dark",
         "light": "Tokyo Night Light",
-        "dark": "Base16 Ashes",
+        "dark": "VSCode Dark Modern",
     },
     "indent_guides": {
         "enabled": true,
