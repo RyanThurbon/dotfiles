@@ -22,15 +22,20 @@
     "session": {
         "trust_all_worktrees": true,
     },
-    "icon_theme": "JetBrains New UI Icons (Dark)",
+    "icon_theme": {
+        "mode": "light",
+        "light": "Colored Zed Icons Theme Light",
+        "dark": "Colored Zed Icons Theme Dark",
+    },
     "base_keymap": "VSCode",
-    "ui_font_size": 19,
+    "ui_font_size": 17,
+    "ui_font_family": "JetBrains Mono",
     "buffer_font_family": "JetBrains Mono",
-    "buffer_font_size": 19,
+    "buffer_font_size": 17,
     "theme": {
-        "mode": "dark",
-        "light": "One Light",
-        "dark": "One Dark",
+        "mode": "light",
+        "light": "Tokyo Night Light",
+        "dark": "Base16 Ashes",
     },
     "indent_guides": {
         "enabled": true,
@@ -46,7 +51,7 @@
         "indent_guides": {
             "show": "always",
         },
-        "indent_size": 13.0,
+        "indent_size": 15.0,
         "folder_icons": false,
         "auto_fold_dirs": false,
         "git_status": false,
