@@ -1,0 +1,9 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="ide.ui.native.file.chooser" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

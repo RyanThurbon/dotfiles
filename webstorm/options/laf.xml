@@ -1,0 +1,10 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="RiderDark" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Islands Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb" scheme="_@user_VSCode Dark" />
+      <laf-to-scheme laf="e73dac03-3ae2-4ad3-ae63-a9d2beb93056" scheme="_@user_GitHub Dark Dimmed" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

@@ -1,0 +1,257 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="ReformatCode" />
+      <option value="ShowRegistry" />
+      <option value="WelcomeScreen.Settings" />
+      <option value="ChangeKeymap" />
+    </ids>
+  </component>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Async code and promisesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code Coverage</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Data flowJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Docker-compose</id>
+          </State>
+          <State>
+            <id>ES2015 migration aidsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Function metricsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Imports and dependenciesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Oracle</id>
+          </State>
+          <State>
+            <id>PostCSS</id>
+          </State>
+          <State>
+            <id>PostgreSQL</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Potentially undesirable code constructsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Proofreading</id>
+          </State>
+          <State>
+            <id>ReactJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Switch statement issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Try statement issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>TypeScriptJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Unit testingJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Unused symbolsJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>Validity issuesJavaScript and TypeScript</id>
+          </State>
+          <State>
+            <id>YAML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AIHubNotificationManager.lastUsedLicenseType": "FREE",
+    "FindSplitterProportion": "0.33014596",
+    "GeneralSettings.initiallyConfigured": "true",
+    "INSPECTION_FILTER_HISTORY": "typo",
+    "InstalledPluginsSearchHistory": "keymap\nkey\n/tag:Keymap\ndatabase\ndatabas",
+    "KEYMAP": "project\nadd selection for next occ\ndelete line\ngit window\nadd selection for next oc",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "MarketplacePluginsSearchHistory": "/tag:Keymap\nark\nar\narkty\narkt",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RegistryRecentKeys": "ide.ui.tree.indent=ide.experimental.ui",
+    "RunOnceActivity.AIPromoWindowAdvisorPreheat": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.llm.claude.code.byok.migration": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "RunOnceActivity.trace.non.commercial.popup.id": "true",
+    "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
+    "SettingsSearchHistory": "keymaps\nkeymap\nui\ntree\nai",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "database.notebook.setting.id": "963719d5-7b9d-4b03-a77c-f8a3b716a4af",
+    "enter_selection_count": "1",
+    "evlsprt.252": "198e33ecb00",
+    "evlsprt.253": "198e33ecb00",
+    "evlsprt.261": "19d081cd300",
+    "evlsprt3.251": "7",
+    "evlsprt3.252": "7",
+    "evlsprt3.253": "5",
+    "evlsprt3.261": "7",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "261.22158.274",
+    "file.gist.reindex.count": "24",
+    "fileTypeChangedCounter": "13",
+    "fontSizeToResetConsole": "18.0",
+    "fontSizeToResetEditor": "18.0",
+    "full.line.logs.sending.asked": "true",
+    "git.working.trees.number.of.projects.with.git": "5",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.database.cloud.explorer.promo": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "got.it.tooltip.typescript.engine.widget.TSandTSX.tooltip": "1",
+    "ide.islands.ab3": "true",
+    "ide.islands.new.darcula": "true",
+    "idea.islands.enabled": "true",
+    "javascript.spte.engine.popup.was.shown": "true",
+    "javascript.spte.engine.was.enabled.by.experiment": "true",
+    "junie.openOnceAfterInstall": "true",
+    "last_opened_file_path": "C:/Users/ryant/source/repos/personal/discord/pirate-media-bot-v2",
+    "llm.installer.auto.activation.executed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER_AIA_DISABLED",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Rider Dark",
+    "promo.ignore.suggested.ide": "true",
+    "registry.to.advanced.settings.migration.build": "WS-261.22158.274",
+    "selected.color.option.type": "TS.INSTANCE_MEMBER_VARIABLE",
+    "settings.code.style.selected.tab.HTML": "Tabs and Indents",
+    "settings.code.style.selected.tab.JavaScript": "Tabs and Indents",
+    "settings.code.style.selected.tab.TypeScript": "Tabs and Indents",
+    "tab_selection_count": "4",
+    "terminal.gen.one.option.visible": "false",
+    "trial.state.last.availability.check": "0",
+    "ts.lib.d.ts.version": "5.9.3",
+    "webstorm.hide.welcome.screen.promo": "true"
+  },
+  "keyToStringList": {
+    "AIHubNotificationManager.lastAllNotifications": [],
+    "AIHubNotificationManager.notifications": [
+      "FREE_ENABLED"
+    ],
+    "AIHubNotificationManager.seenNotifications": [],
+    "file.chooser.recent.files": [
+      "C:/Users/ryant/source/repos/personal/discord/pirate-media-bot-v2",
+      "C:/Users/ryant/source/repos/personal/discord/kernel",
+      "C:/Users/ryant/source/repos/personal/discord/pirate-media-aio",
+      "C:/Users/ryant/source/repos/personal/web/ryanthurbon.com-v2",
+      "C:/Users/ryant/source/repos/personal/discord/discord-playground",
+      "C:/Users/ryant/source/repos/personal/discord/pirate-media-pmtv"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
+  }
+}</component>
+</application>

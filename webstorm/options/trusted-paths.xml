@@ -1,0 +1,47 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\ryant\Downloads\DBD371 Project" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\discord-playground" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\kernel" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\kernel-sapphire" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\keystone-development" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\pirate-media-aio" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\pirate-media-bot-v2" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\pirate-media-pmtv" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\discord\predb-parser" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\playground" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\playground\vue-practice" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\web\crackstatus-v3" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\web\portfolio-projects\movify" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\web\ryanthurbon.com" value="true" />
+        <entry key="C:\Users\ryant\source\repos\personal\web\ryanthurbon.com-v2" value="true" />
+        <entry key="C:\Users\ryant\source\repos\projects\pirate-media" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\crackstatus-v2" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\free-2-play" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\movify" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\open-remote" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\remote-jobs-board" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\remotely" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\tech-trove" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-projects\thinkr" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\portfolio-v3" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\prj371-project" value="true" />
+        <entry key="C:\Users\ryant\source\repos\web\personal\ryanthurbon.com" value="true" />
+        <entry key="C:\xampp\htdocs\php-practice" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\ryant\source\repos\projects" />
+        <option value="C:\Users\ryant\source\repos\web\personal" />
+        <option value="C:\Users\ryant\source\repos\personal\web" />
+        <option value="C:\Users\ryant\source\repos\personal\discord" />
+        <option value="C:\Users\ryant\source\repos\personal" />
+      </list>
+    </option>
+  </component>
+</application>

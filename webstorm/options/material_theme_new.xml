@@ -1,0 +1,218 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="2979ff" />
+      </MTAccentConfigState>
+    </option>
+    <option name="favoriteThemesState">
+      <MTFavoriteThemesConfigState>
+        <option name="favoriteThemes">
+          <map>
+            <entry key="ARC_DARK">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="DARKER">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="DEEPOCEAN">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="DRACULA">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Darcula">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="ExperimentalDark">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="ExperimentalLight">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="ExperimentalLightWithLightHeader">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="FOREST">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="GITHUB">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="GITHUB_DARK">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="IntelliJ">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="JetBrainsHighContrastTheme">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="JetBrainsLightTheme">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="LIGHTER">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="LIGHT_OWL">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="MONOKAI">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="MOONLIGHT">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Many Islands Dark">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Many Islands Light">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="NIGHT_OWL">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="OCEANIC">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="ONE_DARK">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="ONE_LIGHT">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="One Island Dark">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="One Island Light">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="PALENIGHT">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="SANDYBEACH">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="SKYBLUE">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="SOLARIZED_DARK">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="SOLARIZED_LIGHT">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="SPACE">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="SYNTHWAVE">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="VOLCANO">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="dinbtechit-2179230b863b9b1d9f1eeb27ca4a3a70">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="dinbtechit-7ef0c378d737e162955f3e028dcf9ccb">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="dinbtechit-e4968811e8c127f591d7e670706d4a3c">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="e843a6a0-d4df-4c2a-b5b6-99dcbb839b8d">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+          </map>
+        </option>
+      </MTFavoriteThemesConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="userId" value="-b6a7e76:199294ecdc3:-8000" />
+        <option name="version" value="10.2.0" />
+      </MTMetadataState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="ONE_DARK" />
+      </MTThemeConfigState>
+    </option>
+  </component>
+</application>
