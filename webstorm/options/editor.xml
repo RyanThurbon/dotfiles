@@ -1,11 +1,20 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
   <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="HIGHLIGHT_BRACES" value="false" />
   </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
+        <entry key="LspCodeVisionProvider" value="Default" />
         <entry key="component.usage" value="Default" />
+        <entry key="gittoolbox.code.vision.blame.changeDate" value="Default" />
+        <entry key="gittoolbox.code.vision.blame.issueNav" value="Default" />
         <entry key="inheritors" value="Default" />
         <entry key="llm" value="Default" />
         <entry key="references" value="Default" />
@@ -15,7 +24,10 @@
     <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="LspCodeVisionProvider" />
         <option value="component.usage" />
+        <option value="gittoolbox.code.vision.blame.changeDate" />
+        <option value="gittoolbox.code.vision.blame.issueNav" />
         <option value="inheritors" />
         <option value="llm" />
         <option value="references" />
@@ -40,6 +52,7 @@
         <entry key="sql.join.cardinality.hints#left.join" value="false" />
         <entry key="sql.join.cardinality.hints#right.join" value="false" />
         <entry key="ts.type.hints#function.returns" value="false" />
+        <entry key="ts.type.hints#include.when.variable.type.matches.name" value="false" />
         <entry key="ts.type.hints#non.paren.single.param" value="false" />
         <entry key="ts.type.hints#parameters.in.parens" value="false" />
         <entry key="ts.type.hints#variables.and.fields" value="false" />
@@ -54,15 +67,27 @@
         <entry key="sql.join.cardinality.hints" value="false" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="false" />
-        <entry key="ts.type.hints" value="true" />
+        <entry key="ts.type.hints" value="false" />
       </map>
     </option>
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_CARET_BLINKING" value="false" />
+    <option name="IS_SMOOTH_CARET_BLINKING" value="true" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_HIGHLIGHT_SELECTION_OCCURRENCES" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
@@ -71,9 +96,12 @@
         <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="TypeScript.parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="" />
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
 </application>

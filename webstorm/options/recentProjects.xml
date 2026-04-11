@@ -2,18 +2,51 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/source/repos/personal/web/ryanthurbon.com-v2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ryanthurbon.com-v2 – page-layout.tsx" projectWorkspaceId="38sne44RwXJ9Z0E6T51R2iyBcfk">
+              <option name="activationTimestamp" value="1775839997657" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-261.22158.274" />
+              <option name="buildTimestamp" value="1774406220000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1775839827059" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/source/repos/personal/web/crackstatus-v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="crackstatus-v3 – SearchResultList.tsx" projectWorkspaceId="38c812TsMEjeU3nIqjgsz0i4fOt">
+              <option name="activationTimestamp" value="1775898611591" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-261.22158.274" />
+              <option name="buildTimestamp" value="1774406220000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="327" y="77" width="2071" height="1187" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1775898611860" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/source/repos/personal/discord/pirate-media-bot-v2">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="3CApuisRE7hUZMW1JnD1SsfDLba">
-              <option name="activationTimestamp" value="1775838794431" />
+            <RecentProjectMetaInfo frameTitle="pirate-media-bot-v2 – pmtv\Init.ts" opened="true" projectWorkspaceId="3CApuisRE7hUZMW1JnD1SsfDLba">
+              <option name="activationTimestamp" value="1775921595495" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-261.22158.274" />
               <option name="buildTimestamp" value="1774406220000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
+              <frame x="359" y="67" width="2071" height="1187" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1775838453089" />
+              <option name="projectOpenTimestamp" value="1775898681355" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

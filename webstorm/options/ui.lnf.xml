@@ -1,5 +1,15 @@
 <application>
   <component name="UISettings">
+    <option name="DIFFERENTIATE_PROJECTS" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
+    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="59" />
+    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="59" />
     <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

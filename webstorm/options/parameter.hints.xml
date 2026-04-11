@@ -2,6 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <option id="js.only.show.names.for.tagged" value="false" />
     <option id="vuejs.show.names.for.filters" value="false" />
+    <option id="ts.param.hints.include.when.argument.matches.name" value="false" />
     <option id="js.only.show.names.for.pipes" value="false" />
     <option id="js.only.show.names.for.literal.args" value="false" />
     <option id="ts.param.hints.show.names.for.literal.args" value="false" />

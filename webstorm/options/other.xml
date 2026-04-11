@@ -3,8 +3,16 @@
     <ids>
       <option value="ReformatCode" />
       <option value="ShowRegistry" />
-      <option value="WelcomeScreen.Settings" />
       <option value="ChangeKeymap" />
+      <option value="ViewStatusBar" />
+      <option value="ViewToolButtons" />
+      <option value="ViewToolBar" />
+      <option value="EditorToggleShowBreadcrumbs" />
+      <option value="ToggleDistractionFreeMode" />
+      <option value="ShowMembersInNavigationBar" />
+      <option value="OpenFile" />
+      <option value="Git.Compare.With.Branch.Popup.Settings" />
+      <option value="WelcomeScreen.Settings" />
     </ids>
   </component>
   <component name="AppInspectionProfilesVisibleTreeState">
@@ -148,20 +156,53 @@
   </component>
   <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
-    <option name="fontFace" value="Inter" />
-    <option name="fontSize" value="13.0" />
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontSize" value="15.0" />
     <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
     "AIHubNotificationManager.lastUsedLicenseType": "FREE",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "CUSTOMIZE_ACTIONS": "vcs group",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
     "FindSplitterProportion": "0.33014596",
     "GeneralSettings.initiallyConfigured": "true",
     "INSPECTION_FILTER_HISTORY": "typo",
-    "InstalledPluginsSearchHistory": "keymap\nkey\n/tag:Keymap\ndatabase\ndatabas",
+    "InstalledPluginsSearchHistory": "coc\n/tag:Theme one darker\n/tag:Theme\n/tag:Th\n/tag:THe",
     "KEYMAP": "project\nadd selection for next occ\ndelete line\ngit window\nadd selection for next oc",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
-    "MarketplacePluginsSearchHistory": "/tag:Keymap\nark\nar\narkty\narkt",
+    "MarketplacePluginsSearchHistory": "/tag:Theme one darker\n/tag:The,e\n/tagL\n/tag:Theme\nrose pine",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
     "PluginConfigurable.selectionTab": "1",
@@ -177,7 +218,8 @@
     "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
     "RunOnceActivity.trace.non.commercial.popup.id": "true",
     "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
-    "SettingsSearchHistory": "keymaps\nkeymap\nui\ntree\nai",
+    "RunOnceActivity.zielu.gittoolbox.worktree.promo.1": "true",
+    "SettingsSearchHistory": "highlight select\ntheme\ntree height\nicon\ngutter",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "database.notebook.setting.id": "963719d5-7b9d-4b03-a77c-f8a3b716a4af",
     "enter_selection_count": "1",
@@ -191,11 +233,12 @@
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "261.22158.274",
     "file.gist.reindex.count": "24",
-    "fileTypeChangedCounter": "13",
-    "fontSizeToResetConsole": "18.0",
-    "fontSizeToResetEditor": "18.0",
+    "fileTypeChangedCounter": "16",
+    "fontSizeToResetConsole": "20.0",
+    "fontSizeToResetEditor": "20.0",
     "full.line.logs.sending.asked": "true",
-    "git.working.trees.number.of.projects.with.git": "5",
+    "git.working.trees.stop.showing.new.badge": "true",
+    "got.it.tooltip.NewFeaturesWidget": "1",
     "got.it.tooltip.Plugins Auto-Update": "1",
     "got.it.tooltip.database.cloud.explorer.promo": "1",
     "got.it.tooltip.database.schema.control.got.it": "1",
@@ -211,15 +254,19 @@
     "llm.installer.auto.activation.executed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER_AIA_DISABLED",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "previousColorScheme": "_@user_Rider Dark",
+    "mt.NUMBER_OF_LAUNCHES": "1",
+    "previousColorScheme": "_@user_One Dark Darker",
     "promo.ignore.suggested.ide": "true",
     "registry.to.advanced.settings.migration.build": "WS-261.22158.274",
-    "selected.color.option.type": "TS.INSTANCE_MEMBER_VARIABLE",
+    "selected.color.option.type": "DEFAULT_METADATA",
+    "settings.code.style.selected.tab.Angular2Html": "Wrapping and Braces",
     "settings.code.style.selected.tab.HTML": "Tabs and Indents",
-    "settings.code.style.selected.tab.JavaScript": "Tabs and Indents",
-    "settings.code.style.selected.tab.TypeScript": "Tabs and Indents",
+    "settings.code.style.selected.tab.JavaScript": "Wrapping and Braces",
+    "settings.code.style.selected.tab.TypeScript": "Wrapping and Braces",
     "tab_selection_count": "4",
     "terminal.gen.one.option.visible": "false",
+    "toolwindow.showToolWindowsNames.ts": "2026-04-10T21:04:45.4253348",
+    "toolwindow.showToolWindowsNames.value": "true",
     "trial.state.last.availability.check": "0",
     "ts.lib.d.ts.version": "5.9.3",
     "webstorm.hide.welcome.screen.promo": "true"
@@ -232,9 +279,10 @@
     "AIHubNotificationManager.seenNotifications": [],
     "file.chooser.recent.files": [
       "C:/Users/ryant/source/repos/personal/discord/pirate-media-bot-v2",
+      "C:/Users/ryant/source/repos/personal/web/crackstatus-v3",
+      "C:/Users/ryant/source/repos/personal/web/ryanthurbon.com-v2",
       "C:/Users/ryant/source/repos/personal/discord/kernel",
       "C:/Users/ryant/source/repos/personal/discord/pirate-media-aio",
-      "C:/Users/ryant/source/repos/personal/web/ryanthurbon.com-v2",
       "C:/Users/ryant/source/repos/personal/discord/discord-playground",
       "C:/Users/ryant/source/repos/personal/discord/pirate-media-pmtv"
     ],

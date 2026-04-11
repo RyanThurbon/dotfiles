@@ -1,5 +1,5 @@
 <application>
-  <component name="WebTypesNpmLoader" timestamp="1774456007750">
+  <component name="WebTypesNpmLoader" timestamp="1775839832570">
     <enabled>
       <package name="bootstrap-vue" />
       <package name="quasar" />

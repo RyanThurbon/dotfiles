@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="2979ff" />
+        <option name="accentColorHex" value="ff9800" />
       </MTAccentConfigState>
     </option>
     <option name="favoriteThemesState">
@@ -65,6 +65,21 @@
               </value>
             </entry>
             <entry key="IntelliJ">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Islands Darcula">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Islands Dark">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="Islands Light">
               <value>
                 <MTFavoriteTheme />
               </value>
@@ -206,12 +221,12 @@
     <option name="metadata">
       <MTMetadataState>
         <option name="userId" value="-b6a7e76:199294ecdc3:-8000" />
-        <option name="version" value="10.2.0" />
+        <option name="version" value="11.0.0-beta5" />
       </MTMetadataState>
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="ONE_DARK" />
+        <option name="selectedThemeName" value="DARKER" />
       </MTThemeConfigState>
     </option>
   </component>
