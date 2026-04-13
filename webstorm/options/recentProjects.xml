@@ -21,32 +21,32 @@
         <entry key="$USER_HOME$/source/repos/personal/web/crackstatus-v3">
           <value>
             <RecentProjectMetaInfo frameTitle="crackstatus-v3 – SearchResultList.tsx" projectWorkspaceId="38c812TsMEjeU3nIqjgsz0i4fOt">
-              <option name="activationTimestamp" value="1775898611591" />
+              <option name="activationTimestamp" value="1776097857065" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-261.22158.274" />
               <option name="buildTimestamp" value="1774406220000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="0" />
               </option>
-              <frame x="327" y="77" width="2071" height="1187" />
+              <frame x="245" y="76" width="2121" height="1187" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1775898611860" />
+              <option name="projectOpenTimestamp" value="1776097857244" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/source/repos/personal/discord/pirate-media-bot-v2">
           <value>
-            <RecentProjectMetaInfo frameTitle="pirate-media-bot-v2 – pmtv\Init.ts" opened="true" projectWorkspaceId="3CApuisRE7hUZMW1JnD1SsfDLba">
-              <option name="activationTimestamp" value="1775921595495" />
+            <RecentProjectMetaInfo frameTitle="pirate-media-bot-v2" opened="true" projectWorkspaceId="3CApuisRE7hUZMW1JnD1SsfDLba">
+              <option name="activationTimestamp" value="1776103033999" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="WS-261.22158.274" />
               <option name="buildTimestamp" value="1774406220000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="359" y="67" width="2071" height="1187" />
+              <frame x="293" y="116" width="2121" height="1187" />
               <option name="productionCode" value="WS" />
-              <option name="projectOpenTimestamp" value="1775898681355" />
+              <option name="projectOpenTimestamp" value="1776097910132" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

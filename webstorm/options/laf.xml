@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="com.obelisk.onedarkdarker" />
+    <laf themeId="com.github.catppuccin.frappe.jetbrains" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="NiceDarkTheme" scheme="_@user_Dark Matter" />
       <laf-to-scheme laf="ae7a917c-04b2-4468-c003-6ddd4c43f879" scheme="_@user_Islands Dark" />
