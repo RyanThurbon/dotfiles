@@ -1,6 +1,6 @@
 {
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 20,
+    "editor.fontSize": 19,
     "editor.tabSize": 4,
     "editor.lineHeight": 2,
     "editor.cursorBlinking": "solid",
@@ -9,6 +9,7 @@
     "editor.selectionHighlight": false,
     "editor.matchBrackets": "never",
     "editor.guides.indentation": false,
+    "explorer.compactFolders": false,
     "editor.bracketPairColorization.enabled": false,
     "editor.formatOnType": true,
     "editor.formatOnPaste": true,
@@ -21,6 +22,7 @@
     "prettier.tabWidth": 4,
     "prettier.printWidth": 120,
     "prettier.bracketSpacing": true,
+    "editor.semanticHighlighting.enabled": false,
     "editor.semanticTokenColorCustomizations": {
         "rules": {
             "variable.local": "#9cdcfe",
@@ -28,4 +30,16 @@
         },
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "vue.editor.templateInterpolationDecorators": false,
+    "postman.mcp.notifications.postmanMCP": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "js/ts.preferences.importModuleSpecifier": "non-relative",
+    "workbench.startupEditor": "none",
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "chat.agent.enabled": false,
+    "chat.instructionsFilesLocations": {},
+    "postman.telemetry.enabled": false,
+    "postman.account.region": "EU",
+    "postman.settings.dotenv-detection-notification-visibility": false,
 }
