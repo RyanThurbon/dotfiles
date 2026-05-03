@@ -11,15 +11,14 @@
                     "type": "session"
                 },
                 {
-                    "style": "plain",
                     "type": "path",
+                    "style": "plain",
                     "foreground": "cyan",
-                    "options": {
-                        "style": "agnoster_full",
-                        "max_depth": 3,
+                    "properties": {
+                        "style": "full",
                         "home_icon": "~"
                     },
-                    "template": "<#ffffff>in</> {{ .Folder }} "
+                    "template": "<#ffffff>in</> {{ .Path }} "
                 },
                 {
                     "foreground": "#ff94df",
