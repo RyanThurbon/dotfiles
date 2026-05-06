@@ -1,17 +1,12 @@
 {
     "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 14,
+    "editor.fontSize": 15,
     "editor.lineHeight": 2,
-    "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 130,
     "editor.tabSize": 4,
     "explorer.compactFolders": false,
     "editor.insertSpaces": true,
     "editor.detectIndentation": false,
     "editor.indentSize": "tabSize",
-    "editor.rulers": [
-        130
-    ],
     "editor.cursorStyle": "block",
     "breadcrumbs.enabled": false,
     "editor.suggestSelection": "recentlyUsedByPrefix",
@@ -52,6 +47,7 @@
     "js/ts.suggest.paths": false,
     "files.autoSave": "afterDelay",
     "extensions.ignoreRecommendations": true,
-    "workbench.colorTheme": "Dark Modern",
+    "workbench.colorTheme": "Yukinord",
     "diffEditor.ignoreTrimWhitespace": true,
+    "editor.links": false
 }
