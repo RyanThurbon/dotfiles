@@ -1088,7 +1088,7 @@
             "name": "Entity Other Attribute Name",
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#CBCCC6"
+                "foreground": "#b48ead"
             }
         },
         {
