@@ -947,7 +947,7 @@
         {
             "scope": "emphasis",
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1032,7 +1032,7 @@
                 "entity.name.type.interface"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#a3be8c"
             }
         },
@@ -1576,7 +1576,7 @@
             "name": "[Java] Storage Type Generic",
             "scope": "source.java storage.type.generic",
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#a3be8c"
             }
         },
@@ -1768,9 +1768,9 @@
         },
         {
             "name": "[Markdown] Markup Italic",
-            "scope": "text.html.markdown markup.italic",
+            "scope": "text.html.markdown markup.",
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1825,9 +1825,9 @@
         },
         {
             "name": "[Markdown] Punctuation Definition Italic",
-            "scope": "text.html.markdown punctuation.definition.italic",
+            "scope": "text.html.markdown punctuation.definition.",
             "settings": {
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -1899,7 +1899,7 @@
             "name": "[Rust] Traits",
             "scope": "source.rust entity.name.type.trait",
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#a3be8c"
             }
         },
@@ -1959,7 +1959,7 @@
                 "text.xml string.unquoted.cdata punctuation.definition.string"
             ],
             "settings": {
-                "fontStyle": "italic",
+                "fontStyle": "",
                 "foreground": "#d08770"
             }
         },
