@@ -53,5 +53,5 @@
     "files.autoSave": "afterDelay",
     "extensions.ignoreRecommendations": true,
     "workbench.colorTheme": "Dark Modern",
-    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.ignoreTrimWhitespace": true,
 }
