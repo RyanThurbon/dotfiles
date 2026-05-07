@@ -24,6 +24,8 @@
     "js/ts.format.placeOpenBraceOnNewLineForControlBlocks": true,
     "js/ts.preferences.importModuleSpecifier": "shortest",
     "js/ts.updateImportsOnFileMove.enabled": "always",
+    "js/ts.suggest.autoImports": true,
+    "js/ts.suggest.enabled": true,
     "chat.agent.enabled": false,
     "chat.autopilot.enabled": false,
     "chat.disableAIFeatures": true,
