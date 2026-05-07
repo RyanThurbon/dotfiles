@@ -33,6 +33,7 @@
     "vue.format.script.enabled": true,
     "vue.format.style.enabled": true,
     "vue.format.template.enabled": true,
+    "workbench.tree.indent": 10,
     "[vue]": {
         "editor.defaultFormatter": "Vue.volar"
     },
