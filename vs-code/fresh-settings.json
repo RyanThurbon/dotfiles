@@ -1,0 +1,51 @@
+{
+    "workbench.colorTheme": "Dark Modern",
+    "editor.fontFamily": "DejaVu Sans Mono",
+    "editor.tabSize": 4,
+    "explorer.compactFolders": false,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.indentSize": "tabSize",
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.occurrencesHighlight": "off",
+    "editor.selectionHighlight": false,
+    "workbench.tips.enabled": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "js/ts.format.placeOpenBraceOnNewLineForFunctions": true,
+    "js/ts.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "js/ts.preferences.importModuleSpecifier": "shortest",
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "chat.agent.enabled": false,
+    "chat.autopilot.enabled": false,
+    "chat.disableAIFeatures": true,
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": true,
+    "editor.links": false,
+    "vue.editor.templateInterpolationDecorators": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports": "always",
+        "source.removeUnusedImports": "always",
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "variable.other.readwrite",
+                    "variable.other.constant",
+                    "meta.var-single-variable.expr.js variable.other.readwrite.js"
+                ],
+                "settings": {
+                    "foreground": "#9CDCFE"
+                }
+            }
+        ]
+    }
+}
