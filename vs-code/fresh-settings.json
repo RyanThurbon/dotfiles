@@ -30,6 +30,28 @@
     "extensions.ignoreRecommendations": true,
     "editor.links": false,
     "vue.editor.templateInterpolationDecorators": false,
+    "vue.format.script.enabled": true,
+    "vue.format.style.enabled": true,
+    "vue.format.template.enabled": true,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
     "editor.codeActionsOnSave": {
         "source.fixAll": "always",
         "source.organizeImports": "always",
@@ -48,5 +70,6 @@
                 }
             }
         ]
-    }
+    },
+    "editor.defaultFormatter": "Vue.volar"
 }
