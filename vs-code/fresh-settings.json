@@ -2,6 +2,7 @@
     "workbench.colorTheme": "Dark Modern",
     "editor.fontFamily": "DejaVu Sans Mono",
     "editor.tabSize": 4,
+    "editor.lineHeight": 1.5,
     "explorer.compactFolders": false,
     "editor.insertSpaces": true,
     "editor.detectIndentation": false,
