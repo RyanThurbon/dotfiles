@@ -29,7 +29,7 @@
     "chat.agent.enabled": false,
     "chat.autopilot.enabled": false,
     "chat.disableAIFeatures": true,
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "onWindowChange",
     "extensions.ignoreRecommendations": true,
     "editor.links": false,
     "vue.editor.templateInterpolationDecorators": false,
