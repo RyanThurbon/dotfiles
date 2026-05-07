@@ -37,6 +37,12 @@
     "vue.format.style.enabled": true,
     "vue.format.template.enabled": true,
     "workbench.tree.indent": 10,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
     "[vue]": {
         "editor.defaultFormatter": "Vue.volar"
     },
