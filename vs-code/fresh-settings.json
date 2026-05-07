@@ -1,6 +1,7 @@
 {
     "workbench.colorTheme": "Dark Modern",
     "editor.fontFamily": "DejaVu Sans Mono",
+    "editor.fontSize": 16,
     "editor.tabSize": 4,
     "editor.lineHeight": 1.5,
     "explorer.compactFolders": false,
@@ -8,7 +9,7 @@
     "editor.detectIndentation": false,
     "editor.indentSize": "tabSize",
     "editor.suggestSelection": "recentlyUsedByPrefix",
-    "editor.formatOnType": true,
+    "editor.formatOnType": false,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.cursorBlinking": "expand",
@@ -62,5 +63,6 @@
             }
         ]
     },
-    "editor.defaultFormatter": "Vue.volar"
+    "editor.defaultFormatter": "Vue.volar",
+    "workbench.startupEditor": "none"
 }
