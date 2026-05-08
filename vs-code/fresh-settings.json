@@ -33,7 +33,7 @@
     "extensions.ignoreRecommendations": true,
     "editor.links": false,
     "vue.editor.templateInterpolationDecorators": false,
-    "vue.format.script.enabled": true,
+    "vue.format.script.enabled": false,
     "vue.format.style.enabled": true,
     "vue.format.template.enabled": true,
     "workbench.tree.indent": 10,
