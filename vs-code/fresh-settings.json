@@ -1,7 +1,6 @@
 {
     "workbench.colorTheme": "Dark Modern",
     "editor.fontFamily": "DejaVu Sans Mono",
-    "editor.fontSize": 16,
     "editor.tabSize": 4,
     "editor.lineHeight": 1.5,
     "explorer.compactFolders": false,
@@ -35,14 +34,14 @@
     "vue.editor.templateInterpolationDecorators": false,
     "vue.format.script.enabled": false,
     "vue.format.style.enabled": true,
-    "vue.format.template.enabled": true,
+    "vue.format.template.enabled": false,
     "workbench.tree.indent": 10,
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "vscode.typescript-language-features"
+    // },
+    // "[typescript]": {
+    //     "editor.defaultFormatter": "vscode.typescript-language-features"
+    // },
     "[vue]": {
         "editor.defaultFormatter": "Vue.volar"
     },
