@@ -59,17 +59,18 @@
     "editor.tokenColorCustomizations": {
         "textMateRules": [
             {
-                "scope": [
-                    "variable.other.readwrite",
-                    "variable.other.constant",
-                    "meta.var-single-variable.expr.js variable.other.readwrite.js"
-                ],
-                "settings": {
-                    "foreground": "#9CDCFE"
+            "scope": [
+                "variable.other.constant",
+                "variable.other.constant.js",
+                "variable.other.constant.ts",
+                "keyword.other.const"
+            ],
+            "settings": {
+                "foreground": "#D4D4D4"
                 }
             }
         ]
-    },
+    }
     "editor.defaultFormatter": "Vue.volar",
     "workbench.startupEditor": "none"
 }
