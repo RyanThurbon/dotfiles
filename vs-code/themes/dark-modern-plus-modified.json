@@ -9,7 +9,7 @@
 		// "macro": "#beb7ff",
 		// "operatorOverload": "#d4d4d4",
 		// "memberOperatorOverload": "#d4d4d4",
-		"parameter": "#9cdcfe",
+		// "parameter": "#9cdcfe",
 		"enumMember": "#beb7ff",
 		"type": "#4ec9b0",
 		"keyword:csharp": "#609fd2",
