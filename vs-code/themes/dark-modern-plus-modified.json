@@ -6,12 +6,12 @@
 	"semanticTokenColors": {
 		// "variable": "#d4d4d4",
 		// "function": "#d8d88a",
-		// "enumMember": "#beb7ff",
 		// "macro": "#beb7ff",
-		// "parameter": "#9cdcfe",
-		// "type": "#4ec9b0",
 		// "operatorOverload": "#d4d4d4",
 		// "memberOperatorOverload": "#d4d4d4",
+		"parameter": "#9cdcfe",
+		"enumMember": "#beb7ff",
+		"type": "#4ec9b0",
 		"keyword:csharp": "#609fd2",
 		"modifier:csharp": "#609fd2",
 		"namespace:csharp": "#CCCCCC",
@@ -796,7 +796,8 @@
 				"entity.name.type.enum.cs"
 			],
 			"settings": {
-				"foreground": "#a7bc61"
+				// "foreground": "#a7bc61"
+				"foreground": "#4ec9b0"
 			}
 		},
 		{
@@ -952,6 +953,7 @@
 			],
 			"settings": {
 				"foreground": "#abd8f3"
+				// "foreground": "#d4d4d4"
 			}
 		},
 		{
