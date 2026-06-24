@@ -5,13 +5,13 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		// "variable": "#d4d4d4",
-        // "function": "#d8d88a",
-        // "enumMember": "#beb7ff",
-        // "macro": "#beb7ff",
-        // "parameter": "#9cdcfe",
-        // "type": "#4ec9b0",
-        // "operatorOverload": "#d4d4d4",
-        // "memberOperatorOverload": "#d4d4d4",
+		// "function": "#d8d88a",
+		// "enumMember": "#beb7ff",
+		// "macro": "#beb7ff",
+		// "parameter": "#9cdcfe",
+		// "type": "#4ec9b0",
+		// "operatorOverload": "#d4d4d4",
+		// "memberOperatorOverload": "#d4d4d4",
 		"keyword:csharp": "#609fd2",
 		"modifier:csharp": "#609fd2",
 		"namespace:csharp": "#CCCCCC",
@@ -58,7 +58,8 @@
 	},
 	"colors": {
 		"checkbox.border": "#3C3C3C",
-		"editor.background": "#1e1e1e",
+		// "editor.background": "#1e1e1e",
+		"editor.background": "#121212",
 		"editor.foreground": "#CCCCCC",
 		"editor.inactiveSelectionBackground": "#60708080",
 		"editorIndentGuide.background1": "#404040",
@@ -686,7 +687,8 @@
 				"entity.name.operator.custom-literal"
 			],
 			"settings": {
-				"foreground": "#d8d88a"
+				// "foreground": "#d8d88a"
+				"foreground": "#dcd2a5"
 			}
 		},
 		{
