@@ -274,7 +274,8 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#ee9090"
+				// "foreground": "#ee9090"
+				"foreground": "#deb684"
 			}
 		},
 		{
