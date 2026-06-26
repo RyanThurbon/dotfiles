@@ -831,11 +831,12 @@
 		{
 			"scope": [
 				"variable.other.constant",
-				"variable.other.enummember",
+				// "variable.other.enummember",
 				"entity.name.variable.enum-member.cs"
 			],
 			"settings": {
-				"foreground": "#deb684"
+				// "foreground": "#deb684"
+				"foreground": "#9cdcfe"
 			}
 		},
 		{
