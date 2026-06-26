@@ -835,8 +835,8 @@
 				"entity.name.variable.enum-member.cs"
 			],
 			"settings": {
-				// "foreground": "#deb684"
-				"foreground": "#9cdcfe"
+				"foreground": "#deb684"
+				// "foreground": "#9cdcfe"
 			}
 		},
 		{
