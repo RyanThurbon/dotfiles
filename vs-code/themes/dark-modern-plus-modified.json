@@ -706,7 +706,8 @@
 			],
 			"settings": {
 				// "foreground": "#a7bc61"
-				"foreground": "#4ec9b0"
+				// "foreground": "#4ec9b0"
+				"foreground": "#B8D7A3"
 			}
 		},
 		{
