@@ -967,7 +967,8 @@
 				"comment.documentation.cs"
 			],
 			"settings": {
-				"foreground": "#8177ac"
+				// "foreground": "#8177ac"
+				"foreground": "#798090"
 			}
 		},
 		{
@@ -978,7 +979,8 @@
 				"comment.documentation.delimiter.cs"
 			],
 			"settings": {
-				"foreground": "#8177ac"
+				// "foreground": "#8177ac"
+				"foreground": "#798090"
 			}
 		},
 		{
