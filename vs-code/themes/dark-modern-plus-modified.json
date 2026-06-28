@@ -183,7 +183,8 @@
 			],
 			"settings": {
 				// "foreground": "#ee9090"
-				"foreground": "#deb684"
+				// "foreground": "#deb684"
+				"foreground": "#b5cea8"
 			}
 		},
 		{
