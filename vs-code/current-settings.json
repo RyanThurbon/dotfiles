@@ -16,7 +16,7 @@
 	"editor.formatOnType": false,
 	"editor.formatOnPaste": true,
 	"editor.formatOnSave": true,
-	"editor.cursorBlinking": "blink",
+	"editor.cursorBlinking": "expand",
 	"editor.cursorSmoothCaretAnimation": "on",
 	"editor.bracketPairColorization.enabled": false,
 	"editor.smoothScrolling": true,
