@@ -1052,7 +1052,8 @@
 				"punctuation.section.dictionary.end"
 			],
 			"settings": {
-				"foreground": "#dcba5c"
+				// "foreground": "#dcba5c",
+                "foreground": "#bbbebf"
 			}
 		},
 		{
