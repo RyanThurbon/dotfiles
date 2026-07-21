@@ -835,6 +835,7 @@
 			],
 			"settings": {
 				"foreground": "#CCCCCC"
+				// "foreground": "#bbbebf"
 			}
 		},
 		{
@@ -1070,7 +1071,8 @@
 			],
 			"settings": {
 				// "foreground": "#69c9ff"
-				"foreground": "#CCCCCC"
+				// "foreground": "#CCCCCC"
+				"foreground": "#bbbebf"
 			}
 		},
 		{
@@ -1089,7 +1091,8 @@
 			],
 			"settings": {
 				// "foreground": "#eea0dc"
-				"foreground": "#CCCCCC"
+				// "foreground": "#CCCCCC"
+				"foreground": "#bbbebf"
 			}
 		},
 		{
