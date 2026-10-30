@@ -1,85 +1,147 @@
+
 {
-    "minimap": {
-        "show": "always",
-    },
-    "buffer_font_fallbacks": ["Consolas", "Courier New"],
-    "icon_theme": {
-        "mode": "dark",
-        "light": "VSCode Icons for Zed (Light)",
-        "dark": "VSCode Icons for Zed (Dark)",
-    },
-    "toolbar": {
-      "breadcrumbs": false,
-      "quick_actions": false
-    },
-    "preferred_line_length": 120,
-    "soft_wrap": "prefer_line",
-    "git_panel": {
-        "dock": "right",
-        "tree_view": false,
-    },
-    "outline_panel": {
-        "indent_size": 20.0,
-    },
-    "disable_ai": true,
-    "telemetry": {
-        "diagnostics": true,
-        "metrics": false,
-    },
-    "diagnostics": {
-        "include_warnings": true,
-        "inline": {
-            "enabled": true,
-        },
-    },
-    "session": {
-        "trust_all_worktrees": true,
-        "restore_unsaved_buffers": true,
-    },
-    "base_keymap": "VSCode",
-    "buffer_font_size": 16.0,
     "buffer_font_family": "JetBrains Mono",
+    "ui_font_family": "JetBrains Mono",
+    "buffer_font_size": 16,
+    "buffer_font_weight": 350,
+    "buffer_font_fallbacks": ["Consolas", "Courier New"],
     "buffer_font_features": {
-        "calt": false,
+        "calt": false
     },
     "theme": {
         "mode": "dark",
         "light": "Ayu Light",
-        "dark": "Ayu Mirage",
+        "dark": "Dark Modern Plus"
     },
-    "indent_guides": {
-        "enabled": true,
+    "icon_theme": {
+        "mode": "dark",
+        "light": "VSCode Icons for Zed (Light)",
+        "dark": "VSCode Icons for Zed (Dark)"
     },
+    "cursor_animation": {
+        "enabled": false
+    },
+    "cursor_blink": false,
+    "base_keymap": "VSCode",
+    "tab_size": 4,
+    "preferred_line_length": 120,
+    "soft_wrap": "prefer_line",
     "formatter": "auto",
     "format_on_save": "off",
+    "selection_highlight": false,
+    "current_line_highlight": "none",
+    "rounded_selection": false,
+    "show_whitespaces": "none",
+    "indent_guides": {
+        "enabled": true
+    },
+    "minimap": {
+        "show": "always",
+        "current_line_highlight": "none"
+    },
+    "toolbar": {
+        "breadcrumbs": false,
+        "quick_actions": false
+    },
+    "git_panel": {
+        "dock": "right",
+        "tree_view": false
+    },
+    "outline_panel": {
+        "indent_size": 20
+    },
     "project_panel": {
         "folder_indicator": "chevron",
         "dock": "left",
         "indent_guides": {
-            "show": "always",
+            "show": "always"
         },
-        "indent_size": 15.0,
+        "indent_size": 15,
         "auto_fold_dirs": false,
         "git_status": true,
-        "git_status_indicator": false,
+        "git_status_indicator": false
     },
-    "tab_size": 4,
+    "diagnostics": {
+        "include_warnings": true,
+        "inline": {
+            "enabled": false
+        }
+    },
+    "telemetry": {
+        "diagnostics": true,
+        "metrics": false
+    },
+    "session": {
+        "trust_all_worktrees": true,
+        "restore_unsaved_buffers": true
+    },
+    "disable_ai": true,
+    "semantic_tokens": "combined",
+    "global_lsp_settings": {
+        "semantic_token_rules": [
+            {
+                "token_type": "parameter",
+                "foreground_color": "#CCCAC2FF"
+            }
+            ,{
+                "token_type": "keyword",
+                "token_modifiers": ["controlFlow"],
+                "style": ["keyword.control"],
+                "foreground_color": "#C586C0"
+            }
+            ,{
+                "token_type": "variable",
+                "token_modifiers": ["readonly"],
+                "foreground_color": "#deb684"
+            },
+            {
+                "token_type": "variable",
+                "token_modifiers": ["declaration"],
+                "foreground_color": "#CCCAC2FF"
+            }
+        ]
+    },
+    "theme_overrides": {
+        "Dark Modern Plus": {
+            "syntax": {
+                "keyword.control": {
+                    "color": "#C586C0"
+                }
+                ,"keyword.import": {
+                    "color": "#C586C0"
+                }
+                ,"keyword.directive": {
+                    "color": "#C586C0"
+                }
+            }
+        }
+    },
     "languages": {
         "TypeScript": {
-            "language_servers": ["typescript-language-server", "!vtsls"],
+            "language_servers": [
+                "typescript-language-server",
+                "!vtsls"
+            ]
         },
         "TSX": {
-            "language_servers": ["typescript-language-server", "tailwindcss-language-server", "!vtsls"],
+            "language_servers": [
+                "typescript-language-server",
+                "tailwindcss-language-server",
+                "!vtsls"
+            ]
         },
         "JavaScript": {
-            "language_servers": ["typescript-language-server", "!vtsls"],
-        },
+            "language_servers": [
+                "typescript-language-server",
+                "!vtsls"
+            ]
+        }
     },
     "lsp": {
         "tailwindcss-language-server": {
             "settings": {
-                "classFunctions": ["cva", "cx", "clsx"],
-            },
-        },
-    },
+                "classFunctions": ["cva", "cx", "clsx"]
+            }
+        }
+    }
 }
