@@ -5,25 +5,32 @@
     "buffer_font_size": 16,
     "buffer_font_weight": 350,
     "buffer_font_fallbacks": ["Consolas", "Courier New"],
-    "buffer_font_features": {
+    "buffer_font_features":
+    {
         "calt": false
     },
-    "theme": {
+    "theme":
+    {
         "mode": "dark",
         "light": "Ayu Light",
         "dark": "Dark Modern Plus"
     },
-    "icon_theme": {
+    "icon_theme":
+    {
         "mode": "dark",
         "light": "VSCode Icons for Zed (Light)",
         "dark": "VSCode Icons for Zed (Dark)"
     },
-    "cursor_animation": {
+    "cursor_animation":
+    {
         "enabled": false
     },
+    "ensure_final_newline_on_save": false,
     "cursor_blink": false,
     "base_keymap": "VSCode",
     "tab_size": 4,
+    "auto_indent": "syntax_aware",
+    "hard_tabs": false,
     "preferred_line_length": 120,
     "soft_wrap": "prefer_line",
     "formatter": "auto",
@@ -32,53 +39,66 @@
     "current_line_highlight": "none",
     "rounded_selection": false,
     "show_whitespaces": "none",
-    "indent_guides": {
+    "indent_guides":
+    {
         "enabled": true
     },
-    "minimap": {
+    "minimap":
+    {
         "show": "always",
         "current_line_highlight": "none"
     },
-    "toolbar": {
+    "toolbar":
+    {
         "breadcrumbs": false,
         "quick_actions": false
     },
-    "git_panel": {
-        "dock": "right",
+    "git_panel":
+    {
+        "dock": "left",
         "tree_view": false
     },
-    "outline_panel": {
+    "outline_panel":
+    {
         "indent_size": 20
     },
-    "project_panel": {
+    "project_panel":
+    {
         "folder_indicator": "chevron",
         "dock": "left",
-        "indent_guides": {
+        "indent_guides":
+        {
             "show": "always"
         },
         "indent_size": 15,
         "auto_fold_dirs": false,
         "git_status": true,
-        "git_status_indicator": false
+        "git_status_indicator": true,
     },
-    "diagnostics": {
+    "diagnostics":
+    {
         "include_warnings": true,
-        "inline": {
-            "enabled": false
+        "inline":
+        {
+            "enabled": true
         }
     },
-    "telemetry": {
+    "telemetry":
+    {
         "diagnostics": true,
         "metrics": false
     },
-    "session": {
+    "session":
+    {
         "trust_all_worktrees": true,
         "restore_unsaved_buffers": true
     },
     "disable_ai": true,
     "semantic_tokens": "combined",
-    "global_lsp_settings": {
-        "semantic_token_rules": [
+    "global_lsp_settings":
+    {
+        "semantic_token_rules":
+        [
             {
                 "token_type": "parameter",
                 "foreground_color": "#CCCAC2FF"
@@ -101,46 +121,72 @@
             }
         ]
     },
-    "theme_overrides": {
-        "Dark Modern Plus": {
-            "syntax": {
-                "keyword.control": {
+    "theme_overrides":
+    {
+        "Dark Modern Plus":
+        {
+            "syntax":
+            {
+                "keyword.control":
+                {
                     "color": "#C586C0"
                 }
-                ,"keyword.import": {
+                ,"keyword.import":
+                {
                     "color": "#C586C0"
                 }
-                ,"keyword.directive": {
+                ,"keyword.directive":
+                {
                     "color": "#C586C0"
                 }
             }
         }
     },
-    "languages": {
-        "TypeScript": {
-            "language_servers": [
-                "typescript-language-server",
-                "!vtsls"
+    "languages":
+    {
+        "TypeScript":
+        {
+            "language_servers":
+            [
+                "vtsls",
+                "eslint"
             ]
         },
-        "TSX": {
-            "language_servers": [
-                "typescript-language-server",
+        "TSX":
+        {
+            "language_servers":
+            [
+                "vtsls",
                 "tailwindcss-language-server",
-                "!vtsls"
+                "eslint"
             ]
         },
-        "JavaScript": {
-            "language_servers": [
-                "typescript-language-server",
-                "!vtsls"
+        "JavaScript":
+        {
+            "language_servers":
+            [
+                "vtsls",
+                "eslint"
             ]
         }
     },
-    "lsp": {
-        "tailwindcss-language-server": {
-            "settings": {
+    "lsp":
+    {
+        "tailwindcss-language-server":
+        {
+            "settings":
+            {
                 "classFunctions": ["cva", "cx", "clsx"]
+            }
+        },
+        "eslint":
+        {
+            "settings":
+            {
+                "workingDirectory":
+                {
+                    "mode": "auto"
+                }
             }
         }
     }
